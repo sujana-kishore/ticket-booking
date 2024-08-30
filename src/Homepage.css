@@ -1,0 +1,47 @@
+.App {
+    text-align: center;
+  }
+  
+  .latest-arrivals {
+    margin: 20px;
+  }
+  
+  .section-title {
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  
+  .featured-movie {
+    position: relative;
+    height: 300px;
+  }
+  
+  .featured-image {
+    height: 100%;
+    position: relative;
+  }
+  
+  .play-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: black;
+    opacity: 0.7;
+  }
+  
+  .movie-categories {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .now-showing {
+    padding: 20px;
+  }
+  
+  .movie-image {
+    height: 300px;
+  }
+  
